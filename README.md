@@ -6,6 +6,9 @@ I DID NOT DRAW ANY OF THE ASSETS,
 Assets are by melthie on:
 https://melthie.itch.io/mini-dungeon
 
+# Made using Kaboom.js
+https://kaboomjs.com/
+
 # Folder structure
 
 - `src` - source code for your kaboom project
