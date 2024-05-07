@@ -11,7 +11,7 @@ https://kaboomjs.com/
 
 # Folder structure
 
-- `src` - source code for your kaboom project
+- `src` - source code for the kaboom project
 - `www` - distribution folder, contains your index.html, built js bundle and static assets
 
 
