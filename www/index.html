@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body {
+		  overflow: hidden;
+		}
+		</style>
+	<title>Push_Push</title>
+	<link rel="manifest" href="/manifest.json">
+	<link rel="icon"  href="/icon512.png">
+</head>
+<body>
+	<script src="main.js"></script>
+	<script>
+		if('serviceWorker' in navigator) {
+		  navigator.serviceWorker.register('/sw.js', { scope: '/' });
+		}
+	</script>
+		
+</body>
+</html>

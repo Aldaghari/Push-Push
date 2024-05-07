@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Push Push Game",
+    "short_name": "Push Push Game",
+    "description": "A 2D puzzel game that containts 5 levels, the aim is to unlock the door at each level.",
+    "start_url": "/",
+    "background_color": "black",
+    "theme_color": "black",
+    "orientation": "landscape",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
